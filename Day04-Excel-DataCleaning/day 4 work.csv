@@ -1,0 +1,12 @@
+OrderID,Customer,Region,Product,Quantity,Price,OrderDate
+101,Asha,South,Tea,2,50,01-11-2025 00:00
+102,Ramesh,North,Coffee,1,120,03-11-2025 00:00
+103,Priya,East,Biscuits,5,30,04-11-2025 00:00
+105,unknown,West,Coffee,3,120,05-11-2025 00:00
+106,Manoj,East,Biscuits,2,30,06-11-2025 00:00
+108,Kavita,South,Chocolate,1,200,07-11-2025 00:00
+110,Sita,West,Tea,2,50,07-11-2025 00:00
+110,Sita,West,Tea,2,50,09-11-2025 00:00
+111,Arjun,South,Coffee,1,120,10-11-2025 00:00
+112,Nikhil,North,Biscuits,5,30,11-11-2025 00:00
+116,Geeta,unknown,Tea,1,50,12-11-2025 00:00
